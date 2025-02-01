@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blockchain-uom/static/css/main.ca67ef22.css",
+    "main.js": "/blockchain-uom/static/js/main.b56559e1.js",
+    "static/js/488.7d9bf841.chunk.js": "/blockchain-uom/static/js/488.7d9bf841.chunk.js",
+    "index.html": "/blockchain-uom/index.html",
+    "main.ca67ef22.css.map": "/blockchain-uom/static/css/main.ca67ef22.css.map",
+    "main.b56559e1.js.map": "/blockchain-uom/static/js/main.b56559e1.js.map",
+    "488.7d9bf841.chunk.js.map": "/blockchain-uom/static/js/488.7d9bf841.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca67ef22.css",
+    "static/js/main.b56559e1.js"
+  ]
+}
