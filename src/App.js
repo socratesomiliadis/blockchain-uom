@@ -3,7 +3,7 @@ import Web3 from "web3";
 import "bootstrap/dist/css/bootstrap.min.css";
 import CrowdfundingABI from "./CrowdfundingABI.json";
 
-const CONTRACT_ADDRESS = "0x214CD8Df2a0E89805f792460189f0cdD793Ec015";
+const CONTRACT_ADDRESS = "0x515c0A44D5Ee4db699338B8b7680B235DE9425f5";
 
 const SECONDARY_OWNER = "0x153dfef4355E823dCB0FCc76Efe942BefCa86477";
 
